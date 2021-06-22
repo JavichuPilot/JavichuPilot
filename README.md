@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JavichuPilot
+- 👀 I’m interested in the aviation and the programming.
+- 🌱 I’m currently learning js, im new in this world.
